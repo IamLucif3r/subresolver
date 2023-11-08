@@ -5,7 +5,8 @@ SubResolver is a command line tool for converting a list of subdomains into thei
 
 To install SubResolver, follow the procedure:
 
-1. Clone the repository using:
+1. Clone the repository on your local 
+using:
 
 ```bash
 git clone https://github.com/IamLucif3r/SubResolver.git
